@@ -5,8 +5,4 @@
 
 <a href="https://github.com/VitorNextren">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorNextren&theme=dark&hide_langs_below=1" />
-</a>                           
-  
-<a href="https://github.com/VitorNextren">
-<img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNextren&layout=compact&theme=dark />
-</a> 
+</a>
